@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/store/!svn/ver/34/trunk/mod/quickcontent/db
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/store/!svn/ver/34/trunk/mod/quickcontent/db/install.xml
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/store/!svn/ver/34/trunk/mod/quickcontent/db/access.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/store/!svn/ver/34/trunk/mod/quickcontent/db/log.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/store/!svn/ver/34/trunk/mod/quickcontent/db/install.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/store/!svn/ver/34/trunk/mod/quickcontent/db/upgrade.php
+END
